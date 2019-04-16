@@ -1,0 +1,17 @@
+{
+  "name": "user",
+  "columns": [
+    {
+      "name": "id",
+      "type": "int",
+      "length": 5,
+      "values": ["1", "2", "3"]
+    },
+    {
+      "name": "username",
+      "type": "string",
+      "length": 10,
+      "values": ["lamine", "dibor", "adja"]
+    }
+  ]
+}
